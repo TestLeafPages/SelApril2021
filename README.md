@@ -8,4 +8,7 @@ Week1: Core Java Basics
   - Different types of Variables
   - Opearators (Arithmetic, Relational, Logical and Assinment)
   - Access Specifiers (Public & Private)
-  - Control Statements (if, if-else, if- else if & for)
+  - Control Statements (if, if-else, if- else if & for, while, do-while, continue, break, return)
+  - Get started with Arrays
+  - Introduction to String class and its methods 
+
