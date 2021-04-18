@@ -19,7 +19,7 @@ public class LearnToInteractWithDropDown {
 	
 
 	public static void main(String[] args) throws InterruptedException {
-
+		//pre condition comment
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("http://leaftaps.com/opentaps/control/main");
